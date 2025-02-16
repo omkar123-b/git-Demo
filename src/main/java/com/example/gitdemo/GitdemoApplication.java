@@ -1,13 +1,69 @@
-package com.example.gitdemo;
+public class user{
+	private int id;
+	private string username;
+	private string password;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+	public int getId() { git add src
 
-@SpringBootApplication
-public class GitdemoApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(GitdemoApplication.class, args);
+		return id;
 	}
 
+	public void setId(int id) {
+		this.id = id;
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
